@@ -5,7 +5,7 @@
 　　根据问题识别出正确的待匹配文本，给定两个问题Q，判定该问题对语义是否匹配。
 
 ## EDA
-https://github.com/liangkaimeng/CNTextMatching/blob/main/figure/sentence_len.png
+![句子长度分布](https://github.com/liangkaimeng/CNTextMatching/blob/main/figure/sentence_len.png)
 
 
 ## 竞赛链接
